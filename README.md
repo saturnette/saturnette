@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=/luka)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=cxn2qb8b3pb5dwu415xv3akdb)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saturnette&show_icons=true&theme=radical)
 
