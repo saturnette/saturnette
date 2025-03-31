@@ -2,9 +2,6 @@
 My name is Javier Flores, and I love building things with code! Whether it's backend logic, frontend magic, or data-driven solutions, I'm always up for a challenge. 🚀
 
 ### 
-
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-
 <!--
 **saturnette/saturnette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
